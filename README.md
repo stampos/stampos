@@ -1,4 +1,16 @@
-### Hi there 👋
+# Hello there 👋
+
+##### I'm Christos and here starts my journey in the world of coding. 🌺
+
+## About me
+
+- 👨‍🎓 MSc in Electrical and Computer Engineering at DUTH
+- 🧑 Volunteering in EESTEC
+- 📌 Code enthusiast
+- 🤓 Assembly and Verilog enjoyer
+- 💅 I like Capybaras
+- 🎤 Stand-Up Comedian
+
 
 <!--
 **stampos/stampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
