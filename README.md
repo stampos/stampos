@@ -1,6 +1,6 @@
 # ✨About me
 
-👨‍🎓 MSc in Electrical and Computer Engineering at DUTH <br>🧑 Volunteering in EESTEC<br>📌 Code enthusiast<br>🤓 Assembly and Verilog enjoyed<br>💅 I like Capybaras<br>🎤 Stand-Up Comedian<br>
+👨‍🎓 MSc in Electrical and Computer Engineering at DUTH <br>🧑 Volunteering in EESTEC<br>📌 Code enthusiast<br>🤓 Assembly and Verilog enjoyer<br>💅 I like Capybaras<br>🎤 Stand-Up Comedian<br>
 
 # 📱 Social Media
 [![Facebook](https://img.shields.io/badge/Facebook-%23007ACC.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/christos.stampoulidis) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_stampo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christos-stampoulidis-a6a30022b/)
