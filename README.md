@@ -14,8 +14,8 @@
 # 🌿Additional Tools 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) 
 
- # 🗿Statistics
- [![Stampo's GitHub stats](https://github-readme-stats.vercel.app/api?username=stampos)](https://github.com/stampos/github-readme-stats)
+ # 🗿Language Statistics
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stampos)](https://github.com/stampos/github-readme-stats)
 
 
 <!--
